@@ -1,0 +1,55 @@
+.ass1{
+    text-align: center;
+    text-shadow: 1px 1px 0 #ec463d ,2px 2px 0 #2694ef , 3px 3px 0 #9c27b0;
+    font-family: Arial;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+.one{
+    text-transform: uppercase;
+}
+.two{ text-transform: capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
+.ass3{
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 30px auto;
+}
+.ass-3{
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 30px auto; 
+}
+.ass_3{
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 30px auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+a{
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+    background-color: #009688;
+    border-bottom:10px solid #00514a;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 60px;
+    width: fit-content;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 20px 40px;
+}
